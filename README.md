@@ -1,0 +1,1 @@
+# Redirecionamento personalizado ao link compartilhado do github
